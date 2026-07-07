@@ -27,7 +27,7 @@ This project is provided for personal and portfolio use. You are free to modify 
 
 ---
 
-## Notes (Trigger Warning: Topics fo self-harm mentioned)
+## Notes (Trigger Warning: Topics of self-harm mentioned)
 As someone who has struggled with self-harm (SH) for over a decade on and off, I decided to create this prototype to help with SH urges. Instead of hurting yourself, you have a place you can redirect those urges.
 
 It also poses as a reminder that your scars are not a reflection of being broken but a rich history of everything you have survived. 
